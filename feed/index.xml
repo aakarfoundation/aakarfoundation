@@ -11,13 +11,21 @@
 	<title>Aakar Foundation</title>
 	<atom:link href="http://localhost/foundation/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Sat, 12 Jun 2021 17:27:32 +0000</lastBuildDate>
+	<description>because we all need a little help to shape up our lives</description>
+	<lastBuildDate>Sun, 13 Jun 2021 05:12:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../wp-content/uploads/2021/06/cropped-favicon-32x32.png</url>
+	<title>Aakar Foundation</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
